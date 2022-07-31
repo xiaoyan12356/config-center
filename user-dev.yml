@@ -1,0 +1,5 @@
+traffic:
+  rule:
+    type: header 
+    name: Gray
+    value: true  
