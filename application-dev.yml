@@ -1,1 +1,4 @@
 name: jiawei
+traffic:
+  rule:
+    type: header
